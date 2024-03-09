@@ -4849,6 +4849,7 @@ a img {
 #particles-js .particles-js-canvas-el {
   width: 100% !important;
   height: 100vh !important;
+  background-color: #242424 !important;
 }
 
 .header {
@@ -4883,7 +4884,7 @@ a img {
   font-size: 8px;
   display: block;
   line-height: 1;
-  color: #fff;
+  color: pink;
   margin-top: 10px;
 }
 
